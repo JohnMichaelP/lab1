@@ -1,0 +1,52 @@
+body {
+  background-color: #525252;";
+}
+p {
+	text-align:  center;
+}
+h1 {
+	text-align:  center;
+}
+.header {
+  background-color: #E6E6E6;
+  padding: 20px;
+  text-align: center;
+  }
+ box {
+      background-color: white;
+	  width: 10px;
+	  padding: 10px;
+	  border: 4px solid black;
+	  margin: auto;
+	}
+c {
+    color: black;
+  }
+  
+a {
+    text-decoration: none;
+  }
+PT {
+     position: relative;
+	 bottom: -25px;
+   }
+FA {
+     position: absolute;
+	 top: 350px;
+	 left: 405px;
+   } 
+FG {
+     position: absolute;
+	 top: 350px;
+	 left: 605px;
+   } 
+FGu {
+     position: absolute;
+	 top: 350px;
+	 left: 805px;
+   } 
+PP {
+     position: absolute;
+	 top: 2px;
+	 left: 5px;
+   }
